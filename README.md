@@ -24,7 +24,7 @@ I am currently a student majoring in Data Science in Business, with a passion fo
 </a>    
 <a href="https://github.com/TrieuTuanVi/Du-doan-gia-co-phieu-theo-khoi-luong/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Du-doan-gia-co-phieu-theo-khoi-luong&theme=abyss" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Du-doan-gia-co-phieu-theo-khoi-luong&theme=solarizeddark" />
 </a>    
 
 
