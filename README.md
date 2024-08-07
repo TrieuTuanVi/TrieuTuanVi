@@ -15,7 +15,7 @@ I am currently a student majoring in Data Science in Business, with a passion fo
 </a> 
 <a href="https://github.com/TrieuTuanVi/Bankrupt/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Bankrupt&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Bankrupt&theme=monokai" />
 </a> 
 
 <a href="https://github.com/TrieuTuanVi/Stock-Price-Predict/">
@@ -24,7 +24,7 @@ I am currently a student majoring in Data Science in Business, with a passion fo
 </a>    
 <a href="https://github.com/TrieuTuanVi/Du-doan-gia-co-phieu-theo-khoi-luong/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Du-doan-gia-co-phieu-theo-khoi-luong&theme=solarizeddark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Du-doan-gia-co-phieu-theo-khoi-luong&theme=radical" />
 </a>    
 
 
