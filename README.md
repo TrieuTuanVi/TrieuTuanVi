@@ -4,7 +4,7 @@ I am currently a student majoring in Data Science in Business, with a passion fo
 
 ## 📫 HOW TO REACH ME: 
 
-[LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/vi-trieu-tuan-431b07321/) [![GitHub](https://github.com/TrieuTuanVi/)
+[LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/vi-trieu-tuan-431b07321/) [GitHub](https://github.com/TrieuTuanVi/)
 
 
 
