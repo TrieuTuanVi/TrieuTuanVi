@@ -19,6 +19,13 @@ I am currently a student majoring in Data Science in Business, with a passion fo
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=RFM-CUSTOMER-SEGMENTATION&theme=radical" />
 </a> 
 
+<a href="https://github.com/TrieuTuanVi/KNN-ALGORITHM/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=KNN-ALGORITHM&theme=radical" />
+</a> 
+
+
+
 <a href="https://github.com/TrieuTuanVi/Investment-Opportunity-Analysis-EDA/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Investment-Opportunity-Analysis-EDA&theme=radical" />
