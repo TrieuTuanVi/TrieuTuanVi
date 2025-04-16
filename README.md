@@ -14,15 +14,16 @@ I am currently a student majoring in Data Science in Business, with a passion fo
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Churn_Analysis&theme=radical" />
 </a>  
+<a href="https://github.com/TrieuTuanVi/KNN-ALGORITHM/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=KNN-ALGORITHM&theme=radical" />
+</a> 
 <a href="https://github.com/TrieuTuanVi/RFM-CUSTOMER-SEGMENTATION/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=RFM-CUSTOMER-SEGMENTATION&theme=radical" />
 </a> 
 
-<a href="https://github.com/TrieuTuanVi/KNN-ALGORITHM/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=KNN-ALGORITHM&theme=radical" />
-</a> 
+
 
 
 
