@@ -10,7 +10,7 @@ I am currently a student majoring in Data Science in Business, with a passion fo
 ![Vĩ's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TrieuTuanVi&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
-## Power BI:
+## [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) Power BI:
 <a href="https://github.com/TrieuTuanVi/Churn_Analysis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Churn_Analysis&theme=radical" />
@@ -26,7 +26,7 @@ I am currently a student majoring in Data Science in Business, with a passion fo
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=KNN-ALGORITHM&theme=radical" />
 </a> 
 
-## Jupyter Notebook: 
+## [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) Jupyter Notebook: 
 <a href="https://github.com/TrieuTuanVi/Investment-Opportunity-Analysis-EDA/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Investment-Opportunity-Analysis-EDA&theme=radical" />
@@ -39,5 +39,9 @@ I am currently a student majoring in Data Science in Business, with a passion fo
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Stock-Price-Predict&theme=radical" />
 </a>
+
+## [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) SQL
+
+## [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) Excel
 
  
