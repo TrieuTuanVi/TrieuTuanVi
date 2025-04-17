@@ -20,11 +20,16 @@ I am currently a student majoring in Data Science in Business, with a passion fo
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=RFM-CUSTOMER-SEGMENTATION&theme=radical" />
 </a> 
 
-## [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) Python
+## ## [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) Excel:
+
+ 
+## [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) Python:
 <a href="https://github.com/TrieuTuanVi/KNN-ALGORITHM/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=KNN-ALGORITHM&theme=radical" />
 </a> 
+
+## [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) SQL:
 
 ## [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) Jupyter Notebook: 
 <a href="https://github.com/TrieuTuanVi/Investment-Opportunity-Analysis-EDA/">
@@ -40,8 +45,6 @@ I am currently a student majoring in Data Science in Business, with a passion fo
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Stock-Price-Predict&theme=radical" />
 </a>
 
-## [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) SQL
 
-## [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) Excel
 
- 
+
