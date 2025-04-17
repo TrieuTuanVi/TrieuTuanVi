@@ -20,7 +20,7 @@ I am currently a student majoring in Data Science in Business, with a passion fo
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=RFM-CUSTOMER-SEGMENTATION&theme=radical" />
 </a> 
 
-## ## [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) Excel:
+## [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) Excel:
 
  
 ## [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) Python:
