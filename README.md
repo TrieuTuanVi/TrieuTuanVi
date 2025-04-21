@@ -46,10 +46,6 @@ I am currently a student majoring in Data Science in Business, with a passion fo
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Du-doan-gia-co-phieu-theo-khoi-luong&theme=radical" />
 </a> 
-<a href="https://github.com/TrieuTuanVi/Stock-Price-Predict/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Stock-Price-Predict&theme=radical" />
-</a>
 
 
 
