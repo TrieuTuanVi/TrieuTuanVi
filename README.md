@@ -38,9 +38,9 @@ I am currently a student majoring in Data Science in Business, with a passion fo
 ## [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) SQL:
 
 ## [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) Jupyter Notebook: 
-<a href="https://github.com/TrieuTuanVi/Investment-Opportunity-Analysis-EDA/">
+<a href="https://github.com/TrieuTuanVi/KMEANS_ALGORITHM/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=Investment-Opportunity-Analysis-EDA&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=KMEANS_ALGORITHM&theme=radical" />
 </a> 
 <a href="https://github.com/TrieuTuanVi/Du-doan-gia-co-phieu-theo-khoi-luong/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
