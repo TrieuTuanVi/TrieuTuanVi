@@ -24,6 +24,7 @@ I am currently a student majoring in Data Science in Business, with a passion fo
 
 ## [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) Excel:
 
+## [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/) Tableau:
  
 ## [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) Python:
 <a href="https://github.com/TrieuTuanVi/KNN-ALGORITHM/">
