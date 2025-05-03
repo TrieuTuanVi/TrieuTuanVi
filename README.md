@@ -22,17 +22,16 @@ I am currently a student majoring in Data Science in Business, with a passion fo
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=RFM-CUSTOMER-SEGMENTATION&theme=radical" />
 </a> 
 
+## [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/) Tableau:
+ <a href="https://github.com/TrieuTuanVi/BANK_LOAN_ANALYSIS/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=BANK_LOAN_ANALYSIS&theme=radical" />
+</a> 
 
 ## [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) Excel:
 <a href="https://github.com/TrieuTuanVi/SALE_ANALYSIC/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=SALE_ANALYSIC&theme=radical" />
-</a> 
-
-## [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/) Tableau:
- <a href="https://github.com/TrieuTuanVi/BANK_LOAN_ANALYSIS/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuTuanVi&repo=BANK_LOAN_ANALYSIS&theme=radical" />
 </a> 
  
 ## [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) Python:
